@@ -52,10 +52,6 @@ Here’s a sneak peek of the dashboards included:
 #### 5. **Cryptocurrency Dashboard**  
    Stay updated with cryptocurrency trends, market prices, and trading volumes.
 
-### 📞 Contact
-I’m always open to feedback, suggestions, or collaboration opportunities! Feel free to get in touch:
-- **Email:** [radialbonsai153@gmail.com](mailto:radialbonsai153@gmail.com)
-
 ### 🎉 Acknowledgments
 Thank you for exploring my repository! These dashboards are crafted with passion and designed to add value to your analysis. Feel free to use, share, and adapt them. If you find them helpful, give this repository a ⭐ on GitHub!
 
